@@ -7,6 +7,8 @@ public class Main extends JavaPlugin{
 	@Override
 	public void onEnable() {
 		
+		//Register Command
+		this.getCommand("ResourcePack").setExecutor(new RpCommand());
 	}
 	
 	@Override
