@@ -1,6 +1,6 @@
 main: me.onix.resourcepacklinker.Main
 name: ResourcePackLinker
-version: 0.01
+version: 1.00
 author: Doggy
 description: A plugin to show players a link to a resource pack on request.
 commands:
